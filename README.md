@@ -14,7 +14,7 @@ Full .Net Reactor UnPacker ( A Plugin Works Together With UnSealer<V1.0> ) 🙂 
 
 # How To Use 
 
-- Download [!Release](https://i.instagram.com/) / Source Code 
+- Download [Release](https://github.com/CursedLand/Cursed.Reactor/releases/tag/1.0) / Source Code 
 - Drag Dlls In UnSealer Directory <|> Notice : (Compile UnSealer Before Using)
 - Open UnSealer And Choose .Net Reactor UnPacker from ComboBox
 - Click Execute Protections
