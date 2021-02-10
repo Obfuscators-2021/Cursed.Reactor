@@ -4,13 +4,14 @@ Full .Net Reactor UnPacker ( A Plugin Works Together With UnSealer<V1.0> ) 🙂 
 
 # What Does This UnPack ?
 
-- Removes Anti-Debugger
-- Removes Anti-Tamper
-- Removes ControlFlow
-- Removes Junk Calls
-- Restores Strings
-- Resolve Delegates And Replace it With Right Reference 🙂
-
+- Removes Anti-Debugger ✅
+- Removes Anti-Tamper ✅
+- Removes ControlFlow ✅
+- Removes Junk Calls ✅
+- Restores Strings ✅
+- Resolve Delegates And Replace it With Right Reference 🙂 ✅
+- DeVirtualize VM ❎ (MayBe Theres support for it Soon :D)
+- Decrypt NecroBit ❎
 
 # How To Use 
 
