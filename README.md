@@ -1,3 +1,6 @@
+# Please Note (This Project Is UnMaintained anymore)
+- All Updates Will Be Merged Into [UnSealer](https://github.com/CursedLand/UnSealer)
+
 # Cursed.Reactor
 Full .Net Reactor UnPacker ( A Plugin Works Together With UnSealer<V1.0> ) 🙂 Except VM &amp; NecroBit
 
